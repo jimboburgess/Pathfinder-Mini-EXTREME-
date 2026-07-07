@@ -34,42 +34,99 @@ Dungeons
   main.ino
 │
 ├── setup()
+
+
 ├── loop()
 │
+
+
 buttons.ino
+
+
 │
 ├── handleButtons()
+
+
 ├── handleStartButtons()
+
+
 ├── handleBattleButtons()
+
+
 └── handleEndScreenButtons()
+
+
 │
 battle.ino
+
+
 │
 ├── performAttack()
+
+
 ├── takePlayerTurn()
+
+
 ├── takeEnemyTurn()
+
+
 ├── useHealingPotion()
+
+
 ├── defend()
+
+
 ├── runAway()
+
+
 └── resetBattle()
+
+
 │
 display.ino
 │
+
+
 ├── drawStartScreen()
+
+
 ├── drawStartAnimation()
+
+
 ├── drawBattleScreen()
+
+
 ├── drawBattleSprites()
+
+
 └── drawCriticalHit()
+
+
 │
 enemies.ino
 │
+
+
 └── generateGoblin()
 │
+
+
 potions.ino
 │
+
+
 └── usePotion()
 │
+
+
 sprites.cpp
+
+
 sprites.h
+
+
 characters.h
+
+
 battle.h
+
