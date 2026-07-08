@@ -36,37 +36,29 @@ Dungeons
   Climax, Big Battle, or Conflict: The major boss fight or final confrontation of the adventure.
   Reward, Revelation, or Plot Twist: The resolution, where the players receive their loot, discover a secret.
 
-  Eventually, One player can join with other players to complete dungeons. Either with blue tooth or hardwired or perhaps with a wifi connection.
+  Eventually, One player can join with other players to complete dungeons. using ESP NOW connections.
+
+  
   
   main.ino
 │
 ├── setup()
-
-
 ├── loop()
-│
 
 
 buttons.ino
 
-
-│
 ├── handleButtons()
-
 
 ├── handleStartButtons()
 
-
 ├── handleBattleButtons()
-
 
 └── handleEndScreenButtons()
 
 
 │
 battle.ino
-
-
 │
 ├── performAttack()
 
