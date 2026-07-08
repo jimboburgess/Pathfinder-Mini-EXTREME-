@@ -14,31 +14,59 @@ AS ON 7/6/20206 IT IS PROGRAMMED TO RUN ON two BUTTONS, and an ec11 encoder
 The eventual plan is to have a small RPG.
 
 Character select
+  
   Fighter
+  
   Arcane Spell caster
+  
   Rogue
+  
   Cleric
 
 Town
   Home, for rest
+  
   Ye olde shoppe, for selling a buying gear and potions
+  
   Castle, for accepting simple quests such as kill 10 goblins, find 200ft of rope, etc. 
+  
   Barn, for chicken looking or horse peepin.
+  
   perhaps othr characters to talk with.
 
 Dungeons
+
   using the five room dungeon technique
   https://donjon.bin.sh/fantasy/5_room/
 
+  
   Entrance and Guardian: An initial challenge or obstacle that establishes the dungeon's theme and keeps casual looters out.
+  
   Puzzle or Roleplaying Challenge: A mental or social trial that provides a change of pace from straight combat.
+  
   Trick or Setback: A trap, red herring, or unexpected complication designed to build tension.
+  
   Climax, Big Battle, or Conflict: The major boss fight or final confrontation of the adventure.
+  
   Reward, Revelation, or Plot Twist: The resolution, where the players receive their loot, discover a secret.
 
   Eventually, One player can join with other players to complete dungeons. using ESP NOW connections.
 
   
+Add more type of enemies
+
+goblins
+
+oozes
+
+undead
+
+dragons
+
+
+
+
+
   
   main.ino
 │
