@@ -7,6 +7,10 @@ AS ON 7/6/20206 IT IS PROGRAMMED TO RUN ON THREE BUTTONS, THOUGH THAT MAY CHANGE
 <img width="1691" height="1221" alt="image" src="https://github.com/user-attachments/assets/631afe45-fe55-441c-944a-fd2711bef958" />
 
 
+<img width="1074" height="858" alt="20260707_221149 1" src="https://github.com/user-attachments/assets/31d963bd-8dd0-4ebd-9a4b-a91b735b7db3" />
+
+
+
 The eventualy plan is to have a small RPG.
 
 Character select
