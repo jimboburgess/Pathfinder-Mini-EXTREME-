@@ -59,7 +59,13 @@ goblins
 
 oozes
 
-undead
+undead skeleton, necromancer, spirits
+
+demons/devils
+
+elementals or giants
+
+classic beasts i.e. owlbear
 
 dragons
 
