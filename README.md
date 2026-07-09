@@ -9,6 +9,42 @@ AS ON 7/6/20206 IT IS PROGRAMMED TO RUN ON two BUTTONS, and an ec11 encoder
 
 <img width="1074" height="858" alt="20260707_221149 1" src="https://github.com/user-attachments/assets/31d963bd-8dd0-4ebd-9a4b-a91b735b7db3" />
 
+These are the parts you'll need or something similar.
+I am using an 
+
+ESP32-s3-zero
+
+two simple buttons
+
+EC11 analog encoder
+
+a piezo transducer
+
+a 240x240 tft screen
+
+also, if you want if portable add a battery and charging module
+
+here are the pinouts used in version 0.22
+// Display
+#define TFT_SCL   12
+#define TFT_SDA   11
+#define TFT_RST   7
+#define TFT_DC    9
+#define TFT_CS    10
+#define TFT_BL    8
+
+// Encoder
+#define ENCODER_CLK      1
+#define ENCODER_DT       2
+#define ENCODER_SW       3
+
+// Buttons
+#define BUTTON_A         4
+#define BUTTON_B         5
+
+//piezo
+#define PIEZO_PIN 6
+
 
 
 The eventual plan is to have a small RPG.
