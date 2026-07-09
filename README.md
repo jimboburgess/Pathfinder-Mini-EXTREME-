@@ -26,23 +26,38 @@ also, if you want if portable add a battery and charging module
 
 here are the pinouts used in version 0.22
 // Display
+
 #define TFT_SCL   12
+
 #define TFT_SDA   11
+
 #define TFT_RST   7
+
 #define TFT_DC    9
+
 #define TFT_CS    10
+
 #define TFT_BL    8
 
+
 // Encoder
+
 #define ENCODER_CLK      1
+
 #define ENCODER_DT       2
+
 #define ENCODER_SW       3
 
+
 // Buttons
+
 #define BUTTON_A         4
+
 #define BUTTON_B         5
 
+
 //piezo
+
 #define PIEZO_PIN 6
 
 
