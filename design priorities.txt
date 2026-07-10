@@ -1,0 +1,101 @@
+
+1. Procedural (Generative) Dungeons
+
+Random dungeon layouts
+Make the dungeons 15 tiles by 15 tiles
+each sprite in the dungeon will be 16x16 pixels. 
+ I need to make sprites for all the dungeon objects and parts 
+Add a few different room shapes, including hallways. 
+figure out a way to initiate combat 
+Treasure chests
+Locked doors
+Traps
+Secret hidden rooms
+Boss rooms
+Shrines
+Merchants
+
+every dungeon run feels different.
+
+2. More Enemies
+Start building enemy "families."
+
+For example:
+
+Goblins
+Undead
+Oozes
+Aberrations, beholder
+Vermin like rats and spiders
+
+Each family can have:
+
+Normal
+Ranged
+Elite
+Chief/Boss
+
+
+3. Character Classes & Leveling 
+
+add different classes and ranged weapons
+
+Fighter
+Rogue
+Wizard
+Cleric
+
+Give each class abilities that make combat feel different.
+
+For example:
+
+Rogue can sneak attack.
+Wizard casts spells with limited spell slots.
+Cleric heals and buffs.
+Fighter blocks and counters.
+
+
+4. Strategic Combat 
+
+We were talking about making battles more tactical.
+
+Things like:
+
+Initiative
+Status effects
+Armor reduction
+Different weapon reach and range
+Critical effects
+Positioning
+Enemy AI personalities
+
+This will make every encounter more interesting.
+
+5. Loot & Equipment
+
+Replace static stats with gear.
+
+Example:
+
+Rusty Sword
+Iron Sword
++1 Longsword
+Ring of Protection
+Boots of Speed
+Cloak of Elvenkind
+
+Equipment gives players a reason to keep exploring. shops to sell and buy items. Special items can be rebought, but the shops only sell basic gear. 
+
+6. ESP-NOW Multiplayer
+
+
+
+Instead of networking half-finished systems, you'll simply synchronize:
+
+Player position
+Inventory
+HP
+Dungeon seed
+Battle state
+
+Because the game systems are already solid, multiplayer becomes mostly a networking problem instead of a game-design problem.
