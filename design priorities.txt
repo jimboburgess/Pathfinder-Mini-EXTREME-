@@ -6,7 +6,9 @@ Make the dungeons 15 tiles by 15 tiles
 each sprite in the dungeon will be 16x16 pixels. 
  I need to make sprites for all the dungeon objects and parts 
 Add a few different room shapes, including hallways. 
-figure out a way to initiate combat 
+Add narrow passages, subdivide full squares into corridors. 
+
+Figure out perception vs passive stealth to start combat. 
 Treasure chests
 Locked doors
 Traps
@@ -15,10 +17,11 @@ Boss rooms
 Shrines
 Merchants
 
-every dungeon run feels different.
+Tile types so a tile changes movement speed. Rough terrain can be steep, icy, rocky, rubble etc. 
 
 2. More Enemies
 Start building enemy "families."
+make sure enemies can't see through walls. 
 
 For example:
 
