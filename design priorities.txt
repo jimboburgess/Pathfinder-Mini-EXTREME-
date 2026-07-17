@@ -19,6 +19,8 @@ Merchants
 
 Tile types so a tile changes movement speed. Rough terrain can be steep, icy, rocky, rubble etc. 
 
+scrollOffset = min(scrollOffset + 10, maxScrollOffset);
+
 2. More Enemies
 Start building enemy "families."
 make sure enemies can't see through walls. 
