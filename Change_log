@@ -11,3 +11,9 @@ encoderButtonLongPressed()
 buttonAPressed()
 buttonBPressed()
 added a function to view the character sheet with a long press of the encoder button. 
+
+7/18/2026
+Added equipment and starting equipment
+made sheet scrolling actually work.
+changed the format of the character sheet.
+i LAZILY ADDED ALL FOUR CHARACTERS TO THE START SCREEN, call it version .026
