@@ -17,3 +17,12 @@ Added equipment and starting equipment
 made sheet scrolling actually work.
 changed the format of the character sheet.
 i LAZILY ADDED ALL FOUR CHARACTERS TO THE START SCREEN, call it version .026
+
+7/20/2026
+Implemented nearly complete item database system. Still got scrolls and wands to build.
+
+Added weapon, armor, shield, scroll and wand databases.
+Expanded item database with adventuring gear, treasure and quest items.
+Added weapon properties, critical ranges and multipliers.
+Updated icons and dungeon themes.
+Synced effectIndex values across all databases.
