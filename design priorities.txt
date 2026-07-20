@@ -1,4 +1,37 @@
 
+Town
+    │
+    ▼
+Choose Dungeon Theme
+    │
+    ▼
+Choose Difficulty
+    │
+    ▼
+Choose Dungeon Size
+    │
+    ▼
+Explore Dungeon
+    │
+    ├── Fight monsters
+    ├── Find treasure
+    ├── Use consumables
+    ├── Discover fountains/shrines
+    └── Decide whether to retreat
+    │
+    ▼
+Boss Room
+    │
+    ▼
+Treasure Room
+    │
+    ▼
+Return to Town
+    │
+    ▼
+Heal • Shop • Upgrade • New Quest
+
+
 1. Procedural (Generative) Dungeons
 
 Random dungeon layouts
