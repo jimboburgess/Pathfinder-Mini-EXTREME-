@@ -26,3 +26,5 @@ Expanded item database with adventuring gear, treasure and quest items.
 Added weapon properties, critical ranges and multipliers.
 Updated icons and dungeon themes.
 Synced effectIndex values across all databases.
+
+Created a simple monster database to start off. 
